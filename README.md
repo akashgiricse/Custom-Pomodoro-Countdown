@@ -37,17 +37,16 @@ An interactive Pomodoro Counter widget for OBS.
 
 3. Setup as seen in image
    ```
-   Local file - Checked
-   Local file address - Select countdown.html
+   URL - https://akashgiri.com/Custom-Pomodoro-Countdown/
    Width - 380
    Height - 90
    ```
-   ![03 - Setup Browser Source](readme/03_Setup.jpg)
+   ![03 - Setup Browser Source](readme/03_Setup.png)
 
-<!-- ## How to use
+## How to use
 
 1. Right-click the timer in Sources and press `Interact`
-![Interact with Widget](readme/04_Interact.jpg)
+   ![Interact with Widget](readme/04_Interact.jpg)
 
 2. Interact with the buttons!
    ```
@@ -55,4 +54,4 @@ An interactive Pomodoro Counter widget for OBS.
    2. Resume/Pause timer
    3. Reset timer
    ```
-   ![Interact buttons](readme/05_Interact_Buttons.jpg) -->
+   ![Interact buttons](readme/05_Interact_Buttons.jpg)

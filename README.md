@@ -7,7 +7,7 @@
   <h3 align="center">Pomodoro Countdown Timer</h3>
 
   <p align="center">
-    A Pomodoro Countdown widget for my Twitch streams!
+    A Pomodoro Countdown widget for my Twitch/YouTube streams!
   </p>
 </p>
 
@@ -16,6 +16,8 @@
 An interactive Pomodoro Counter widget for OBS.
 
 ![Pomo Counter](Design.png)
+
+## 🔗 [YouTube tutorial to use the wigdet](https://youtu.be/hnHysObx9ek?t=176) ▶️
 
 <!-- ## Installation
 
@@ -50,7 +52,7 @@ An interactive Pomodoro Counter widget for OBS.
 
 2. Interact with the buttons!
    ```
-   1. Change the timer between 25min & 50min
+   1. Change the timer between break and focus time periods
    2. Resume/Pause timer
    3. Reset timer
    ```

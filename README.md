@@ -9,6 +9,8 @@
   <p align="center">
     A Pomodoro Countdown widget for my Twitch/YouTube streams!
   </p>
+
+  <h4>Original Base Repository (forked from): https://github.com/hellomayuko/Pomodoro-Countdown</h4>
 </p>
 
 ## About The Project
